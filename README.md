@@ -1,7 +1,7 @@
 <h1>Hi, I'm Muhsin! <br/><a href="https://www.linkedin.com/in/abdullahmuhsin/">Cybersecurity Professional</a>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Active Directory Home Lab](https://github.com/Mazmuhsin/ActiveDirectoryLab)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
