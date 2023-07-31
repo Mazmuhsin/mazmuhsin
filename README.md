@@ -6,7 +6,7 @@
 
 <h2>📜 Certifications</h2>
 
-- [Google Cybersecurity Professional Certificate]()
+- [Google Cybersecurity Professional Certificate](https://github.com/Mazmuhsin/Google-Cybersecurity-Certificate/blob/main/Google%20Cyber%20Security%20Certificate.pdf)
 
 
 
